@@ -9,8 +9,6 @@
 ## 📌 About Me
 - 💻 Estudiante técnico orientado al desarrollo de software y sistemas.
 - 📱 Desarrollo aplicaciones utilizando React Native y Expo.
-- ⛓️ Exploro el ecosistema Blockchain y Web3, especialmente el desarrollo de dApps y Smart Contracts.
-- 🔐 Trabajo con wallets y conexiones Web3 para aplicaciones descentralizadas.
 - 🧠 Utilizo herramientas de Inteligencia Artificial como apoyo para investigar, desarrollar, depurar y optimizar proyectos.
 - 🌐 También me interesa el desarrollo Web y PWA, buscando crear aplicaciones accesibles desde diferentes dispositivos.
 - 🖥️ Tengo interés en redes, sistemas operativos, infraestructura y arquitectura de sistemas.
@@ -21,8 +19,6 @@
 ## 🧠 My Focus Areas
 - Desarrollo y Analisis de Software
 - Desarrollo de Aplicaciones Móviles
-- Desarrollo Web y PWA
-- Web3 y Blockchain
 - Inteligencia Artificial aplicada al desarrollo
 - Desarrollo asistido por IA
 - Redes y Sistemas
